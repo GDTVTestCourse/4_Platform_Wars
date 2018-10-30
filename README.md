@@ -5,6 +5,7 @@
 + Hello 04x01
 + World 04x01
 + Added to description 04x01
+1_First_Lecture_Section_4
 
 ### 2 Second Lecture, Section 4 ###
 
@@ -29,3 +30,9 @@
 + Hello 04x05
 + World 04x05
 + Added to description 04x05
+
+### 6 Sixth Lecture, Section 4 ###
+
++ Hello 04x06
++ World 04x06
++ Added to description 04x06
