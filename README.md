@@ -11,3 +11,9 @@
 + Hello 04x02
 + World 04x02
 + Added to description 04x02
+
+### 3 Third Lecture, Section 4 ###
+
++ Hello 04x03
++ World 04x03
++ Added to description 04x03
